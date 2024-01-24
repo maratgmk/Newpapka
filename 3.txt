@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+    К89    1032       1 ?        13:40:33 /usr/bin/mintty
+    К89    1033    1032 pty0     13:40:33 /usr/bin/bash
+    К89    1111    1033 pty0     13:58:26 /usr/bin/ps
